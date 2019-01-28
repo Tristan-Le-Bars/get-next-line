@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2018
 ** get next line
 ** File description:
-** description
+** return a char string that contain the next line of a txt file 
 */
 
 #include "get_next_line.h"
